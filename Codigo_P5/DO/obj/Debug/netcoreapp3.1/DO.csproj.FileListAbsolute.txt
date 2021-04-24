@@ -1,0 +1,24 @@
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\bin\Debug\netcoreapp3.1\DO.deps.json
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\bin\Debug\netcoreapp3.1\DO.dll
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\bin\Debug\netcoreapp3.1\DO.pdb
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.AssemblyInfoInputs.cache
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.AssemblyInfo.cs
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.csproj.CoreCompileInputs.cache
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.dll
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.pdb
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\bin\Debug\netcoreapp3.1\DO.runtimeconfig.json
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\bin\Debug\netcoreapp3.1\DO.runtimeconfig.dev.json
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.genruntimeconfig.cache
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\bin\Debug\netcoreapp3.1\DO.deps.json
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\bin\Debug\netcoreapp3.1\DO.runtimeconfig.json
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\bin\Debug\netcoreapp3.1\DO.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\bin\Debug\netcoreapp3.1\DO.dll
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\bin\Debug\netcoreapp3.1\DO.pdb
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.dll
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.pdb
+C:\Users\Daniel\Desktop\Daniel\U Fidelitas\2021\Progra Web Avanzada\EXAMEN FINAL\Codigo_P5\DO\obj\Debug\netcoreapp3.1\DO.genruntimeconfig.cache

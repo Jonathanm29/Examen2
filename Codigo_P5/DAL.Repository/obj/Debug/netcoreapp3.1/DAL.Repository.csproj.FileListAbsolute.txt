@@ -1,0 +1,17 @@
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.deps.json
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfoInputs.cache
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfo.cs
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.dll
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.pdb
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.json
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.dev.json
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.genruntimeconfig.cache
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\bin\Debug\netcoreapp3.1\DO.dll
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\bin\Debug\netcoreapp3.1\DO.pdb
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csprojAssemblyReference.cache
+C:\Repo\quesadaao\SC701_ICUA21_M\Codigo_P5\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CopyComplete

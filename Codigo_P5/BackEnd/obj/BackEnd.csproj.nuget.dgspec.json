@@ -1,0 +1,534 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BackEnd\\BackEnd.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BackEnd\\BackEnd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BackEnd\\BackEnd.csproj",
+        "projectName": "BackEnd",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BackEnd\\BackEnd.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BackEnd\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BS\\BS.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BS\\BS.csproj"
+              },
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj"
+              },
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.Repository\\DAL.Repository.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.Repository\\DAL.Repository.csproj"
+              },
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BS\\BS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BS\\BS.csproj",
+        "projectName": "BS",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BS\\BS.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\BS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj"
+              },
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.Repository\\DAL.Repository.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.Repository\\DAL.Repository.csproj"
+              },
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj",
+        "projectName": "DAL.EF",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.Repository\\DAL.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.Repository\\DAL.Repository.csproj",
+        "projectName": "DAL.Repository",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.Repository\\DAL.Repository.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.EF\\DAL.EF.csproj"
+              },
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.Repository\\DAL.Repository.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DAL.Repository\\DAL.Repository.csproj"
+              },
+              "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj",
+        "projectName": "DO",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\DO.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Daniel\\U Fidelitas\\2021\\Progra Web Avanzada\\EXAMEN FINAL\\Codigo_P5\\DO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
